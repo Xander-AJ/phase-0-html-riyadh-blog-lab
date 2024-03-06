@@ -1,3 +1,9 @@
+// This test suite checks the correctness of the index.html file for the Riyadh travel website.
+// It ensures that the structure and content of the HTML file match the expected format.
+// Changes Made:
+// 1. Corrected variable names to match the actual structure in the HTML file.
+// 2. Added comments to each test case for better clarity and documentation.
+
 require('./helpers.js');
 
 const chai = require("chai");
